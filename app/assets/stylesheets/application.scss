@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: blue;
+  font-size: 4rem;
+}
+
+h2 {
+  color: gray;
+  font-size: 3rem;
+}
+
+input {
+  border: none;
+  font-family: inherit;
+  font-size: 2rem;
+  padding: 0.5rem;
+  margin: 2rem 0;
+  border: 2px solid rgb(149, 149, 212);
+  border-radius: 5px;
+}
